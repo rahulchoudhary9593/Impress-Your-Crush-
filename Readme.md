@@ -1,6 +1,8 @@
 # Impress-Your-Crush-
 A fun and interactive HTML/CSS project that asks a simple question: Do you love me? Includes Yes/No redirection pages.
 # 💌 Ask Her Out - Code with Rahul
+# You can go on website
+        https://impresscrush-codewithrahul.netlify.app/
 
 A fun and interactive HTML/CSS project that asks a simple question:  
 **"Do you love me? 🤗"**  
@@ -31,7 +33,7 @@ Perfect as a beginner’s practice project in **HTML** and **CSS**.
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahulchoudhary9593/Impress-Your-Crush-.git
+   git clone https://github.com/rahulchoudhary9593/Impress-Your-Crush-.gitj
 
 2. Navigate into the project folder:
 '''cd ask-her-out
