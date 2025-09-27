@@ -33,7 +33,8 @@ Perfect as a beginner’s practice project in **HTML** and **CSS**.
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahulchoudhary9593/Impress-Your-Crush-.gitj
+   git clone 
+   https://github.com/rahulchoudhary9593/Impress-Your-Crush-.gitj
 
 2. Navigate into the project folder:
 '''cd ask-her-out
